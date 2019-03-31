@@ -6,6 +6,10 @@ The data was scraped from the PDF, and converted to a .csv using Python. Some ma
 
 Latitude and Longitude was pulled from the Google Maps geocode API.
 
+![Visualization of most crime data](https://raw.githubusercontent.com/Conway/OSU-Data/master/crime/OSU%20Crime%20Data.png)
+
+![Visualization of selected crime data (high crime locations)](https://raw.githubusercontent.com/Conway/OSU-Data/master/crime/OSU%20PD%20Selected%20Crime%20Data.png)
+
 ## Data Description
 
 |field|description|
