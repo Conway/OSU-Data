@@ -1,7 +1,7 @@
 case_num,reported_at,start_datetime,end_datetime,offenses,location,status
 P2019-00988,03/30/19 02:55,03/30/19 02:55,,Improper Turning; Driving While Under the Influence of Alcohol/Drugs .08 of 1 gram or more but less than .17 of 1 gram by weight of alcohol per 210 liters of breath; Driving While Under the Influence of Alcohol and/or Drugs; Prohibitions,Lane Ave and Kenny Rd,Open - Arrest
 P2019-00986,03/30/19 02:20,03/30/19 02:20,,Prohibitions; Offenses Involving Underage Persons,Residences On Tenth,Closed
-P2019-00983,03/29/19 21:13,03/29/19 21:13,,Illegal Use or Possession of Drug Paraphernalia,RANEY HOUSE,Closed
+P2019-00983,03/29/19 21:13,03/29/19 21:13,,Illegal Use or Possession of Drug Paraphernalia,Raney House,Closed
 P2019-00981,03/29/19 14:24,03/28/19 16:00,03/29/19 12:00,Theft _ without consent,Bolz Hall,Unfounded
 P2019-00980,03/29/19 12:42,03/29/19 12:42,03/29/19 13:07,Criminal Trespass,Smith Laboratory,Closed
 P2019-00979,03/29/19 12:31,03/29/19 12:00,03/29/19 12:31,Possession of Drugs _ marijuana,Raney House,Closed
@@ -18,12 +18,12 @@ P2019-00955,03/27/19 17:07,03/27/19 06:50,03/27/19 16:35,Theft _ without consent
 P2019-00954,03/27/19 15:25,03/27/19 12:10,03/27/19 14:20,Theft _ without consent,Panera Bread on Lane,Open - Pending Investigation
 P2019-00952,03/27/19 12:57,03/27/19 12:57,,Criminal Trespass _ restricted area,Doan Hall,Closed
 P2019-00948,03/26/19 23:10,03/26/19 23:10,,Illegal Use or Possession of Drug Paraphernalia; Possession of Drugs _ marijuana,Blackburn House,Closed
-P2019-00947,03/26/19 21:51,03/26/19 21:51,,"Possession of Drugs _ schedule III, IV, or V substance",Smith-Steeb,Closed
+P2019-00947,03/26/19 21:51,03/26/19 21:51,,"Possession of Drugs _ schedule III, IV, or V substance",Smith-Steeb Hall,Closed
 P2019-00944,03/26/19 13:49,03/26/19 13:40,03/26/19 13:40,Marijuana Drug Paraphernalia _ use or possess,OSU East Hospital,Closed
 P2019-00941,03/26/19 09:33,03/25/19 22:00,03/26/19 08:00,Theft _ without consent; Criminal Damaging/Endangering _ knowingly any means,Morrill Tower,Closed
 P2019-00939,03/26/19 06:09,03/22/19 21:00,03/26/19 05:00,Theft _ without consent,Brain and Spine Hospital,Closed
 CSA2019-00969,03/26/19 00:00,03/26/19 00:00,03/26/19 00:00,Theft _ without consent,OSU Medical Center - James Cancer Hospital,CSA Victim Declined to Make Report
-P2019-00935,03/25/19 21:35,03/25/19 20:00,03/25/19 21:35,Possessing Drug Abuse Instruments,OSU MAIN HOSPITAL SECURITY OFFICE,Closed
+P2019-00935,03/25/19 21:35,03/25/19 20:00,03/25/19 21:35,Possessing Drug Abuse Instruments,OSU Hospital,Closed
 P2019-00933,03/25/19 19:35,03/25/19 19:35,,Obstructing Official Business; Criminal Damaging/Endangering _ knowingly any means; Criminal Trespass _ restricted area,Indianola Middle School,Open - Arrest
 P2019-00930,03/25/19 06:58,03/22/19 15:00,03/25/19 06:00,Theft _ without consent; Breaking and Entering _ purpose commit theft offense/felony unoccupied structure -- use of force stealth deception; Criminal Damaging/Endangering,Kunz-Brundige Franklin County Extension Building,Open - Pending Investigation
 P2019-00929,03/25/19 05:01,03/25/19 05:01,03/25/19 05:01,Possession of Drugs _ marijuana,OSU Hospital E.D.,Closed
@@ -37,20 +37,20 @@ P2019-00919,03/24/19 01:54,03/24/19 01:54,,Offenses Involving Underage Persons _
 P2019-00917,03/24/19 01:43,03/24/19 01:43,,Offenses Involving Underage Persons _ underage consume beer intoxicating liquor,Park-Stradley Hall,Closed
 P2019-00920,03/24/19 01:41,03/24/19 01:41,,Marijuana Drug Paraphernalia,Morrill Tower,Closed
 P2019-00918,03/24/19 01:40,03/24/19 01:40,,Offenses Involving Underage Persons _ underage consume beer intoxicating liquor,Canfield Hall,Closed
-P2019-00916,03/24/19 00:02,03/24/19 00:02,,Possession of Drugs _ schedule I or II substance,Wexner Center Emergency Department,Open - Pending Investigation
+P2019-00916,03/24/19 00:02,03/24/19 00:02,,Possession of Drugs _ schedule I or II substance,OSU Wexner Center Emergency Department,Open - Pending Investigation
 P2019-00915,03/23/19 20:29,03/23/19 20:29,,Open Liquor Container _ public place; Possession of Drugs _ marijuana; Criminal Trespass _ restricted area,Thompson Library,Open - Arrest
 P2019-00913,03/23/19 20:27,03/23/19 20:15,,Criminal Damaging/Endangering,OSU Main Hospital,Closed
 P2019-00912,03/23/19 18:47,03/23/19 18:47,,Telecommunications Harassment,Ross Heart Hospital,Closed
-P2019-00911,03/23/19 17:54,02/22/19 12:00,02/22/19 23:59,CSA Report: Rape,BUSCH HOUSE,CSA Victim Declined to Make Report
+P2019-00911,03/23/19 17:54,02/22/19 12:00,02/22/19 23:59,CSA Report: Rape,Busch House,CSA Victim Declined to Make Report
 P2019-00909,03/23/19 10:07,03/23/19 06:30,03/23/19 10:00,Breaking and Entering _ purpose commit theft offense/felony unoccupied structure -- use of force stealth deception,Bill Davis Stadium,Open - Arrest
 P2019-00908,03/23/19 10:07,03/23/19 10:07,03/23/19 16:48,"Having Physical Control of Vehicle While Under the Influence _ under the influence of alcohol, a drug of abuse, or a combination",Bill Davis Stadium,Open - Arrest
 P2019-00907,03/23/19 09:31,03/23/19 09:31,,Possessing Drug Abuse Instruments,OSU Hospital Emergency Department,Closed
 P2019-00906,03/23/19 08:38,03/23/19 05:00,03/23/19 09:00,"Burglary _ trespass in occupied structure, separately secured structure, or separately occupied portion of an occupied structure when another person is present, with purpose to commit any criminal offense.",Woody Hayes Athletic Center,Open - Arrest
 P2019-00905,03/23/19 04:04,03/23/19 04:04,,Offenses Involving Underage Persons,Morrison Tower,Closed
-P2019-00904,03/23/19 03:11,03/23/19 03:11,,Assault _ knowingly harm victim,OSU Main Emergency Department,Open - Pending Investigation
+P2019-00904,03/23/19 03:11,03/23/19 03:11,,Assault _ knowingly harm victim,OSU Hospital Emergency Department,Open - Pending Investigation
 P2019-00902,03/23/19 00:55,03/23/19 00:55,,Possession of Drugs _ marijuana; Traffic Control Device,12th Avenue and Neil Ave.,Open - Arrest
-P2019-00901,03/22/19 13:54,03/22/19 13:54,,Possession of Drugs _ marijuana,OSU Emergency Department,Closed
-P2019-00899,03/22/19 13:46,03/02/19 23:30,03/02/19 23:59,CSA Report: Burglary,Smith Steeb,Closed
+P2019-00901,03/22/19 13:54,03/22/19 13:54,,Possession of Drugs _ marijuana,OSU Hospital Emergency Department,Closed
+P2019-00899,03/22/19 13:46,03/02/19 23:30,03/02/19 23:59,CSA Report: Burglary,Smith Steeb Hall,Closed
 P2019-00898,03/22/19 11:49,03/22/19 11:49,,Possession of Drugs _ marijuana,Canfleld Hall,Closed
 P2019-00896,03/22/19 08:57,03/22/19 08:00,03/22/19 09:30,Possession of Drugs _ schedule I or II substance,RPAC,Closed
 P2019-00894,03/22/19 00:30,03/22/19 01:29,03/22/19 01:55,Offenses Involving Underage Persons _ underage consume beer intoxicating liquor; Prohibitions,St. Stephen's Episcopal Church,Closed
@@ -60,16 +60,16 @@ CSA2019-00968,03/22/19 00:00,03/21/19 00:00,03/22/19 00:00,Theft _ without conse
 P2019-00891,03/21/19 21:55,03/21/19 21:55,,Disorderly Conduct,SafeAuto Parking Garage,Closed
 P2019-00889,03/21/19 20:04,03/07/19 00:01,03/18/19 13:00,Theft _ without consent,Morrill Tower,Closed
 P2019-00890,03/21/19 19:47,03/21/19 13:00,03/21/19 13:30,"Burglary _ trespass in occupied structure, separately secured structure, or separately occupied portion of an occupied structure when another person is present, with purpose to commit any criminal offense.",Smith-Steeb Hall,Closed
-P2019-00886,03/21/19 17:48,03/21/19 10:00,03/21/19 14:00,"Burglary _ trespass in occupied structure, separately secured structure, or separately occupied portion of an occupied structure when another person is present, with purpose to commit any criminal offense.",Smith-Steeb Residence Hall,Closed
-P2019-00884,03/21/19 14:49,03/21/19 07:45,03/21/19 15:35,Theft _ without consent,Rhodes Hall Bike Rack,Closed
+P2019-00886,03/21/19 17:48,03/21/19 10:00,03/21/19 14:00,"Burglary _ trespass in occupied structure, separately secured structure, or separately occupied portion of an occupied structure when another person is present, with purpose to commit any criminal offense.",Smith-Steeb Hall,Closed
+P2019-00884,03/21/19 14:49,03/21/19 07:45,03/21/19 15:35,Theft _ without consent,Rhodes Hall,Closed
 P2019-00883,03/21/19 14:05,03/15/19 19:00,03/19/19 17:00,Theft _ without consent,Rhodes Hall,Closed
 P2019-00882,03/21/19 13:59,03/21/19 13:29,03/21/19 13:59,Theft _ without consent; Criminal Damaging/Endangering,"300 W Lane, Panera lot",Closed
 P2019-00880,03/21/19 09:24,03/20/19 19:00,03/21/19 08:30,Breaking and Entering,Howlett Hall,Closed
-P2019-00871,03/21/19 07:13,03/21/19 07:05,03/21/19 07:05,Illegal Use or Possession of Drug Paraphernalia,East Hospital - ED,Closed
+P2019-00871,03/21/19 07:13,03/21/19 07:05,03/21/19 07:05,Illegal Use or Possession of Drug Paraphernalia,East Hospital,Closed
 CSA2019-00965,03/21/19 00:00,03/12/19 00:00,03/12/19 00:00,Theft _ without consent,OSU Medical Center - Harding Hospital,CSA Victim Declined to Make Report
 P2019-00865,03/20/19 17:39,03/20/19 17:27,,Aggravated Menacing,Drackett Tower,Closed
 P2019-00864,03/20/19 16:47,03/20/19 16:47,,Possession of Drugs _ marijuana,Wexner Medical Center Emergency Department (Main),Closed
-P2019-00861,03/20/19 11:33,03/08/19 12:00,03/19/19 17:00,Theft _ without consent,Jones Tower Bike Racks,Closed
+P2019-00861,03/20/19 11:33,03/08/19 12:00,03/19/19 17:00,Theft _ without consent,Jones Tower,Closed
 P2019-00860,03/20/19 10:30,03/20/19 10:30,03/20/19 12:00,Criminal Trespass; Assault,Harding Hospital,Closed
 P2019-00857,03/19/19 21:34,03/19/19 20:40,03/19/19 20:43,Theft _ without consent,RPAC,Closed
 P2019-00856,03/19/19 18:21,03/19/19 18:21,,Possession of Drugs _ marijuana,OSU East Hospital ED,Closed
@@ -77,7 +77,7 @@ P2019-00854,03/19/19 16:31,03/19/19 15:44,03/19/19 15:51,Theft _ without consent
 P2019-00850,03/19/19 13:12,03/18/19 13:45,03/19/19 12:27,Theft _ without consent,Hospital East Gift Shop,Closed - Arrest
 P2019-00848,03/19/19 11:21,03/14/19 17:00,03/18/19 13:45,Breaking and Entering,Campbell Hall,Closed
 CSA2019-00879,03/19/19 00:00,03/16/19 00:00,03/19/19 00:00,Theft _ without consent,OSU Medical Center - East Hospital West Wing,CSA Victim Declined to Make Report
-P2019-00845,03/18/19 17:31,03/06/19 15:00,03/10/19 07:00,Theft _ without consent,DRACKETT TOWER BIKE RACKS,Closed
+P2019-00845,03/18/19 17:31,03/06/19 15:00,03/10/19 07:00,Theft _ without consent,Drackett Tower,Closed
 P2019-00843,03/18/19 11:56,03/18/19 11:31,03/18/19 11:45,Theft _ without consent,Hospital East,Open - Arrest
 P2019-00841,03/18/19 02:00,03/18/19 02:00,,Marijuana Drug Paraphernalia _ use or possess; Possession of Drugs _ marijuana,410 W. 10th Ave.,Closed
 P2019-00840,03/18/19 01:20,03/18/19 01:20,,Operating Motor Vehicle or Motorcycle Without Valid License; Traffic Control Device; Driving While Under the Influence of Alcohol and/or Drugs,Neil Avenue,Open - Arrest
@@ -86,32 +86,32 @@ P2019-00836,03/17/19 14:01,03/11/19 03:00,03/11/19 04:00,Assault,James Cancer Ho
 P2019-00834,03/17/19 13:46,03/17/19 13:46,,Possession of Drugs _ marijuana,Blackburn House,Closed
 P2019-00835,03/17/19 13:32,03/17/19 13:32,,Warrant Arrest; Marijuana Drug Paraphernalia; Possession of Drugs _ marijuana,Ross Heart Hospital,Closed
 P2019-00833,03/17/19 02:16,03/17/19 02:16,,Driving While Under the Influence of Alcohol/Drugs .17 of 1 gram or more by weight of alcohol per 210 liters of breath; Driving While Under the Influence of Alcohol and/or Drugs; Failure To Stop For Signal Lights.,Fyffe Rd and Lane Ave.,Open - Arrest
-P2019-00832,03/17/19 00:14,03/17/19 00:14,,Receiving Stolen Property,Bowen House bicycle rack,Closed
+P2019-00832,03/17/19 00:14,03/17/19 00:14,,Receiving Stolen Property,Bowen House,Closed
 CSA2019-00878,03/17/19 00:00,03/15/19 00:00,03/15/19 00:00,Theft _ without consent,OSU Medical Center - Harding Hospital,CSA Victim Declined to Make Report
-P2019-00831,03/16/19 23:26,03/16/19 23:26,,Offenses Involving Underage Persons _ underage consume beer intoxicating liquor,Smith Steeb Hall,Closed
+P2019-00831,03/16/19 23:26,03/16/19 23:26,,Offenses Involving Underage Persons _ underage consume beer intoxicating liquor,Smith-Steeb Hall,Closed
 P2019-00828,03/16/19 15:55,03/16/19 15:45,03/16/19 15:50,Disorderly Conduct _ fighting or threatening,Schottenstein Center,Closed
 P2019-00827,03/16/19 04:19,03/16/19 04:19,,Possessing Drug Abuse Instruments; Possession of Drugs _ schedule I or II substance; Possession of Drugs _ heroin,Rhodes Hall,Open - Pending Investigation
-P2019-00825,03/15/19 22:42,03/15/19 22:42,,Drug Paraphernalia; Possession of Drugs _ marijuana,OSU Main Hospital (ED),Closed
+P2019-00825,03/15/19 22:42,03/15/19 22:42,,Drug Paraphernalia; Possession of Drugs _ marijuana,OSU Main Hospital Emergency Department,Closed
 P2019-00822,03/15/19 17:20,03/15/19 17:20,,Criminal Damaging/Endangering _ knowingly any means,Harding Hospital,Closed
 P2019-00821,03/15/19 16:45,03/15/19 16:39,03/15/19 16:40,Theft _ without consent,Ohio Union Bookstore,Closed
 P2019-00819,03/15/19 12:00,03/15/19 12:00,03/15/19 12:36,Criminal Trespass,Ohio Union,Closed
 P2019-00818,03/15/19 11:25,03/15/19 11:25,03/15/19 11:34,Illegal Use or Possession of Drug Paraphernalia,OSU East Hospital,Closed
 P2019-00815,03/15/19 03:01,03/15/19 03:01,03/15/19 03:01,Marijuana Drug Paraphernalia; Prohibitions,Woody Hayes Bridge,Open - Arrest
 CSA2019-00877,03/15/19 00:00,03/14/19 00:00,03/15/19 00:00,Theft _ without consent,OSU Medical Center - Harding Hospital,CSA Victim Declined to Make Report
-CSA2019-00876,03/14/19 00:00,03/14/19 00:00,03/14/19 00:00,Theft _ without consent,OSU Medical Center - Emergency Department,CSA Victim Declined to Make Report
+CSA2019-00876,03/14/19 00:00,03/14/19 00:00,03/14/19 00:00,Theft _ without consent,OSU Main Hospital Emergency Department,CSA Victim Declined to Make Report
 P2019-00808,03/13/19 22:10,03/03/19 11:39,03/05/19 21:00,Theft _ without consent,Harding Hospital,Closed
 P2019-00805,03/13/19 17:16,03/13/19 09:00,03/13/19 17:00,Criminal Simulation _ deception,Rhodes Hall,Closed
 P2019-00804,03/13/19 15:04,03/13/19 15:04,,Criminal Trespass _ fail to leave; recklessly,Knowlton Hall,Closed
 P2019-00802,03/13/19 13:02,03/12/19 08:30,03/12/19 17:30,"Burglary _ trespass in occupied structure, separately secured structure, or separately occupied portion of an occupied structure w/ purpose to commit any criminal offense",Residence on Tenth,Open - Pending Investigation
 P2019-00800,03/12/19 18:19,03/12/19 17:20,03/12/19 18:00,Theft _ without consent,Ohio Union,Closed
 P2019-00799,03/12/19 14:43,03/12/19 14:30,,Illegal Use or Possession of Drug Paraphernalia,OSU Hospital East ED,Closed
-P2019-00798,03/12/19 10:24,03/12/19 10:10,03/12/19 10:10,Possession of Drugs _ marijuana,OSUMC Emergency Department,Closed
+P2019-00798,03/12/19 10:24,03/12/19 10:10,03/12/19 10:10,Possession of Drugs _ marijuana,OSU Main Hispital Emergency Department,Closed
 P2019-00797,03/12/19 10:10,03/12/19 10:08,03/12/19 10:08,Theft _ without consent,The Ohio State University Bookstore,Closed
 P2019-00796,03/12/19 04:40,03/12/19 04:21,03/12/19 04:21,Possession of Drugs _ schedule I or II substance,East Hospital,Closed
 CSA2019-00874,03/12/19 00:00,02/28/19 00:00,03/05/19 00:00,Theft _ without consent,OSU Medical Center - Harding Hospital,CSA Victim Declined to Make Report
 CSA2019-00875,03/12/19 00:00,03/12/19 00:00,03/12/19 00:00,Theft _ without consent,OSU Medical Center - Harding Hospital,CSA Victim Declined to Make Report
 P2019-00792,03/11/19 18:10,03/11/19 18:10,03/11/19 19:00,Criminal Trespass _ land premises of another; Possession of Drugs _ marijuana,Indianola Middle School,Closed
-P2019-00791,03/11/19 17:37,03/11/19 16:55,03/11/19 17:10,Assault _ knowingly harm victim,OSU Wexner Medical Center Emergency Department,Open - Pending Investigation
+P2019-00791,03/11/19 17:37,03/11/19 16:55,03/11/19 17:10,Assault _ knowingly harm victim,OSU Main Hospital Emergency Department,Open - Pending Investigation
 P2019-00794,03/11/19 17:35,10/01/18 00:01,10/31/19 23:59,CSA Report: Fondling,2020 Kenny Rd.,Open - Pending Investigation
 P2019-00793,03/11/19 17:17,03/05/19 12:00,03/11/19 16:05,Telecommunications harassment_makes a comment,OSU East Hospital ED,Closed
 P2019-00787,03/11/19 12:48,02/07/19 08:54,02/23/19 17:25,Telecommunications Fraud,Blackwell Inn,Closed
@@ -162,7 +162,7 @@ P2019-00708,03/03/19 17:01,03/03/19 17:01,,Criminal Damaging/Endangering _ knowi
 P2019-00707,03/03/19 16:30,03/03/19 16:05,,Assault _ knowingly harm victim,Doan Hall,Closed
 P2019-00706,03/03/19 11:36,02/20/19 19:00,02/22/19 19:00,Theft _ without consent,Doan Hall,Closed
 CSA2019-00732,03/03/19 00:00,03/03/19 00:00,03/03/19 00:00,Theft _ without consent,OSU Medical Center - Rhodes Hall,CSA Victim Declined to Make Report
-P2019-00703,03/02/19 23:31,03/02/19 23:31,03/03/19 00:00,Theft _ without consent,Morrell Tower,Closed
+P2019-00703,03/02/19 23:31,03/02/19 23:31,03/03/19 00:00,Theft _ without consent,Morrill Tower,Closed
 P2019-00702,03/02/19 23:06,03/02/19 23:06,,Possession of Drugs _ marijuana,Canfield Hall,Closed
 P2019-00701,03/02/19 09:53,03/02/19 09:53,,Possessing Drug Abuse Instruments; Possession of Drugs _ heroin; Warrant Arrest,Mack Hall,Open - Arrest
 P2019-00699,03/02/19 01:18,03/02/19 01:18,,Possession of Drugs _ marijuana,OSU Hospital East,Closed
@@ -180,7 +180,7 @@ CSA2019-00730,03/01/19 00:00,02/28/19 00:00,02/28/19 00:00,Theft _ without conse
 CSA2019-00731,03/01/19 00:00,03/01/19 00:00,03/01/19 00:00,Theft _ without consent,OSU Medical Center - Rhodes Hall,CSA Victim Declined to Make Report
 CSA2019-00872,03/01/19 00:00,03/01/19 00:00,03/01/19 00:00,Theft _ without consent,OSU Medical Center - Harding Hospital,CSA Victim Declined to Make Report
 P2019-00677,02/28/19 23:21,02/19/19 20:10,02/19/19 20:15,Theft _ without consent,555 Borror Dr.,Closed
-P2019-00672,02/28/19 17:41,02/28/19 17:41,02/28/19 17:45,Theft _ without consent,OSU EAST HOSPITAL WALGREENS,Open - Arrest
+P2019-00672,02/28/19 17:41,02/28/19 17:41,02/28/19 17:45,Theft _ without consent,OSU East Hospital Walgreens,Open - Arrest
 P2019-00671,02/28/19 17:23,02/28/19 17:23,02/28/19 17:51,Criminal Trespass _ fail to leave; recklessly,Ohio Union,Closed
 P2019-00668,02/28/19 12:22,02/28/19 11:00,02/28/19 12:00,Disorderly Conduct,Lincoln Tower,Closed
 P2019-00664,02/28/19 00:47,02/28/19 00:47,,Marijuana Drug Paraphernalia _ use or possess,Smith-Steeb Hall,Closed
@@ -195,7 +195,7 @@ P2019-00644,02/25/19 11:45,02/24/19 05:00,02/24/19 17:00,Theft _ without consent
 P2019-00636,02/24/19 23:32,02/23/19 00:00,02/24/19 00:00,CSA Report: Fondling,Residences on Tenth,CSA Victim Declined to Make Report
 P2019-00635,02/24/19 21:24,02/24/19 21:24,,"Criminal Mischief _ move, deface, tamper, etc. property of another",Applewood Village,Open - Pending Investigation
 P2019-00634,02/24/19 20:46,02/24/19 20:46,,Offenses Involving Underage Persons _ underage consume beer intoxicating liquor,Smith-Steeb Hall,Closed
-P2019-00633,02/24/19 20:46,02/24/19 14:46,02/24/19 20:20,Offenses Involving Underage Persons _ underage consume beer intoxicating liquor,Smith-Steeb,Closed
+P2019-00633,02/24/19 20:46,02/24/19 14:46,02/24/19 20:20,Offenses Involving Underage Persons _ underage consume beer intoxicating liquor,Smith-Steeb Hall,Closed
 P2019-00632,02/24/19 20:31,02/24/19 19:23,02/24/19 20:18,Unlawful Restraint _ knowingly restrain persons liberty,Schottenstein Center,Open - Pending Investigation
 P2019-00631,02/24/19 19:12,02/22/19 17:46,02/24/19 17:00,Theft _ without consent,OSU Hospital East ED,Closed
 P2019-00627,02/24/19 03:04,02/24/19 03:04,,Offenses Involving Underage Persons _ underage consume beer intoxicating liquor; Prohibitions,Smith-Steeb Hall,Closed
@@ -204,7 +204,7 @@ CSA2019-00661,02/24/19 00:00,02/24/19 00:00,02/24/19 00:00,Theft _ without conse
 P2019-00625,02/23/19 22:52,02/23/19 22:52,,Menacing,Brain and Spine Hospital,Closed
 P2019-00624,02/23/19 22:12,02/23/19 18:33,02/23/19 22:18,"Telecommunications Harassment _ call w/ purpose to abuse, threaten, annoy",Mount Hall,Closed
 P2019-00621,02/23/19 19:36,02/23/19 09:00,02/23/19 11:30,"Theft _ without consent; Misuse of Credit Card _ furnish property, services w/knowledge card used illegally",Brain and Spine,Open - Pending Investigation
-P2019-00620,02/23/19 19:01,01/01/19 19:01,01/30/19 23:59,CSA Report: Rape,Smith-Steeb,CSA Victim Declined to Make Report
+P2019-00620,02/23/19 19:01,01/01/19 19:01,01/30/19 23:59,CSA Report: Rape,Smith-Steeb Hall,CSA Victim Declined to Make Report
 P2019-00618,02/23/19 08:45,02/23/19 08:45,02/23/19 09:04,Possession of Drugs _ marijuana; Criminal Trespass,Doan Hall,Open - Arrest
 P2019-00617,02/23/19 03:20,02/23/19 03:20,,Disorderly Conduct _ intoxicated create risk of harm,Drinko Hall,Closed
 P2019-00616,02/23/19 02:15,02/23/19 02:15,,Criminal Trespass; Prohibitions; Offenses Involving Underage Persons _ underage consume beer intoxicating liquor,Morrison Tower,Open - Arrest
@@ -248,14 +248,14 @@ P2019-00556,02/19/19 01:28,02/19/19 01:28,,Possession of Drugs _ marijuana,Inter
 P2019-00555,02/18/19 21:48,02/18/19 16:45,02/18/19 18:00,"Burglary _ trespass in occupied structure, separately secured structure, or separately occupied portion of an occupied structure when another person is present, with purpose to commit any criminal offense.",NOSKER HOUSE,Closed
 P2019-00553,02/18/19 17:31,02/18/19 17:13,02/18/19 17:30,"Burglary _ trespass in occupied structure, separately secured structure, or separately occupied portion of an occupied structure when another person is present, with purpose to commit any criminal offense.",Houston House,Open - Pending Investigation
 P2019-00554,02/18/19 17:12,02/18/19 13:43,02/18/19 15:55,Telecommunications Harassment _ sexual activity,Worthington Building,Closed
-P2019-00552,02/18/19 15:29,02/18/19 11:30,02/18/19 13:00,Theft _ without consent,SCOTT LABORATORY,Closed
+P2019-00552,02/18/19 15:29,02/18/19 11:30,02/18/19 13:00,Theft _ without consent,Scott Laboratory,Closed
 P2019-00551,02/18/19 13:53,02/18/19 11:00,02/18/19 11:53,"Telecommunications Harassment _ anonymous, harassing, etc.; Menacing by Stalking _ knowingly cause to believe physical harm or cause mental distress",555 Borror Drive,Closed
 P2019-00550,02/18/19 08:59,02/16/19 18:30,02/17/19 09:00,Theft _ without consent,Rhodes Hall,Closed
 P2019-00547,02/18/19 02:25,02/18/19 00:01,02/18/19 02:25,Assault _ knowingly harm victim,Wexner Medical Center Emergency Department,Open - Arrest
 P2019-00546,02/18/19 00:59,02/18/19 00:59,,Possession of Drugs,Arps Parking Garage,Closed
 CSA2019-00587,02/18/19 00:00,02/08/19 00:00,02/18/19 00:00,Theft _ without consent,OSU Medical Center - East Hospital Tower,Closed
 P2019-00545,02/17/19 23:50,02/17/19 23:50,,Marijuana Drug Paraphernalia; Possession of Drugs _ marijuana,Smith-Steeb Hall,Closed
-P2019-00540,02/17/19 09:50,02/17/19 09:50,02/17/19 10:44,Possession of Drugs _ heroin; Possessing Drug Abuse Instruments,RHODES HALL,Closed
+P2019-00540,02/17/19 09:50,02/17/19 09:50,02/17/19 10:44,Possession of Drugs _ heroin; Possessing Drug Abuse Instruments,Rhodes Hall,Closed
 P2019-00539,02/17/19 07:57,02/17/19 07:30,02/17/19 07:40,Drug Paraphernalia; Possession of Drugs _ cocaine,Hospital East,Closed
 P2019-00538,02/17/19 06:22,02/17/19 06:22,,Possession of Drugs _ marijuana,Taylor Tower,Closed
 P2019-00536,02/17/19 01:10,02/17/19 01:10,02/17/19 01:30,Offenses Involving Underage Persons _ underage consume beer intoxicating liquor,11th Ave. parking garage,Closed
@@ -272,7 +272,7 @@ P2019-00515,02/15/19 12:41,02/15/19 12:30,02/15/19 12:40,Aggravated Menacing; Di
 P2019-00513,02/15/19 07:42,02/13/19 09:00,02/13/19 14:00,Theft; Complicity _ aid/abet another; Misuse of Credit Card; Burglary,East Hospital - Talbot Hall,Open - Arrest
 P2019-00511,02/14/19 23:22,02/14/19 23:22,,Illegal Use or Possession of Drug Paraphernalia,East Hospital - Tower,Closed
 P2019-00508,02/14/19 17:54,02/14/19 06:00,02/14/19 15:33,"Receiving Stolen Property; Misuse of Credit Card _ use expired, revoked, etc.; Theft _ without consent",East Hospital Tower,Open - Arrest
-P2019-00506,02/14/19 15:07,02/14/19 15:07,02/14/19 16:53,Disorderly Conduct _ physically offensive condition/risk of harm,Licoln Tower,Closed
+P2019-00506,02/14/19 15:07,02/14/19 15:07,02/14/19 16:53,Disorderly Conduct _ physically offensive condition/risk of harm,Lincoln Tower,Closed
 P2019-00502,02/14/19 09:57,12/01/17 18:00,12/02/17 02:00,CSA Report: Fondling; CSA Report: Aggravated Assault,40 East Long Street,Closed
 P2019-00500,02/14/19 09:46,08/15/17 08:00,12/15/17 08:00,CSA Report: Rape,21 East 11th. Ave.,Closed
 P2019-00499,02/14/19 09:32,08/15/14 08:00,05/15/15 08:00,CSA Report: Rape,21 East 11th. Ave.,Closed
@@ -296,7 +296,7 @@ P2019-00464,02/12/19 09:34,02/12/19 07:55,02/12/19 09:25,Theft _ without consent
 P2019-00462,02/12/19 09:22,02/01/17 08:00,02/28/17 08:00,CSA Report: Rape,21 East 11th. Ave.,Closed
 P2019-00460,02/12/19 00:09,02/12/19 00:09,02/12/19 00:09,Possession of Drugs _ heroin; Resisting Arrest _ resist or interfere; Trafficking in Drugs _ prepare; Assault; Obstructing Official Business,Ohio Union Garage North,Open - Arrest
 CSA2019-00518,02/12/19 00:00,02/12/19 00:00,02/12/19 00:00,Theft _ without consent,OSU Medical Center - Doan Hall,CSA Victim Declined to Make Report
-P2019-00457,02/11/19 16:12,01/01/16 12:00,12/31/17 12:00,CSA Report: Rape,LAWRENCE TOWER,Closed
+P2019-00457,02/11/19 16:12,01/01/16 12:00,12/31/17 12:00,CSA Report: Rape,Lawrence Tower,Closed
 P2019-00456,02/11/19 14:10,02/05/19 16:50,02/05/19 18:00,Theft _ without consent,OSU East Hospital-Tower,Closed
 P2019-00455,02/11/19 13:38,02/11/19 11:40,02/11/19 11:40,Telecommunications Fraud,Blankenship,Open - Pending Investigation
 P2019-00453,02/11/19 13:15,02/11/19 13:15,02/11/19 13:15,Criminal Trespass,Research Center,Closed
@@ -311,20 +311,20 @@ P2019-00441,02/10/19 02:29,02/10/19 02:29,,CSA Report: Aggravated Assault,Smith-
 P2019-00440,02/10/19 01:19,02/10/19 01:19,,Offenses Involving Underage Persons _ underage consume beer intoxicating liquor; Prohibitions,Hagerty Hall,Closed
 P2019-00439,02/09/19 23:33,02/09/19 23:33,02/09/19 23:33,Illegal Use or Possession of Drug Paraphernalia,Harding Hospital,Closed
 P2019-00435,02/09/19 18:22,02/09/19 18:22,,Criminal Trespass,Neil Building,Closed
-P2019-00434,02/09/19 11:28,02/09/19 08:00,02/09/19 08:20,Theft _ without consent,ROSS HEART HOSPITAL,Closed
+P2019-00434,02/09/19 11:28,02/09/19 08:00,02/09/19 08:20,Theft _ without consent,Ross Heart Hospital,Closed
 P2019-00433,02/09/19 10:09,02/09/19 09:30,02/09/19 10:00,Illegal Use or Possession of Drug Paraphernalia,Emergency Department (OSU Main),Closed
 P2019-00431,02/09/19 07:02,02/09/19 07:02,02/09/19 08:15,Criminal Trespass _ fail to leave; recklessly,Park-Stradley Hall,Closed
-P2019-00430,02/09/19 02:47,02/09/19 02:47,,Failure To Yield; Traffic Control Device; Prohibitions; Driving While Under the Influence of Alcohol and/or Drugs,8th and NEIL AVE,Open - Arrest
+P2019-00430,02/09/19 02:47,02/09/19 02:47,,Failure To Yield; Traffic Control Device; Prohibitions; Driving While Under the Influence of Alcohol and/or Drugs,8th and Neil Ave.,Open - Arrest
 P2019-00429,02/08/19 23:29,02/08/19 11:38,02/08/19 18:23,Theft _ without consent,Scott Traditions,Closed
 P2019-00427,02/08/19 21:04,02/08/19 21:04,,Drug Paraphernalia; Possession of Drugs,Harding Hospital,Closed
-P2019-00425,02/08/19 19:13,02/08/19 10:30,02/08/19 15:00,"Burglary _ trespass in occupied structure, separately secured structure, or separately occupied portion of an occupied structure that is a permanent or temporary habitation of any person when any person is present or likely to be present, w/ purpose to commit in the habitation any criminal offense.",TAYLOR TOWER,Open - Pending Investigation
+P2019-00425,02/08/19 19:13,02/08/19 10:30,02/08/19 15:00,"Burglary _ trespass in occupied structure, separately secured structure, or separately occupied portion of an occupied structure that is a permanent or temporary habitation of any person when any person is present or likely to be present, w/ purpose to commit in the habitation any criminal offense.",Taylor Tower,Open - Pending Investigation
 P2019-00422,02/08/19 11:13,02/08/19 11:13,02/08/19 11:34,Theft _ without consent,Ohio Union,Closed
 P2019-00421,02/08/19 10:03,02/08/19 10:03,02/08/19 10:03,Criminal Trespass,Meiling Hall,Closed
 P2019-00420,02/08/19 02:07,02/08/19 02:07,,Offenses Involving Underage Persons _ underage consume beer intoxicating liquor,Mendoza House,Closed
 P2019-00419,02/08/19 01:46,02/08/19 01:46,,Open Liquor Container _ stationary motor vehicle,Ohio Union Garage South,Closed
 CSA2019-00469,02/08/19 00:00,02/05/19 00:00,02/05/19 00:00,Theft _ without consent,OSU Medical Center - East Hospital Tower,CSA Victim Declined to Make Report
 P2019-00417,02/07/19 20:20,02/07/19 20:20,,Violate Protection Order or Consent Agreement _ pursuit to 2903.213 or 2903.214,Schottenstein Center,Closed
-P2019-00415,02/07/19 13:18,01/09/19 12:00,01/12/19 12:00,Theft _ beyond express/implied consent,BLACKBURN HOUSE,Closed
+P2019-00415,02/07/19 13:18,01/09/19 12:00,01/12/19 12:00,Theft _ beyond express/implied consent,Blackburn House,Closed
 P2019-00414,02/07/19 12:39,02/07/19 12:30,02/07/19 13:22,Criminal Trespass _ fail to leave; recklessly,Schottenstein Center,Open - Arrest
 P2019-00413,02/07/19 12:10,02/07/19 12:10,02/07/19 12:26,Possession of Drugs _ marijuana,University Hospital East,Closed
 P2019-00412,02/07/19 10:37,02/07/19 10:30,02/07/19 10:30,Possessing Drug Abuse Instruments,OSU Hospital East,Closed
@@ -333,7 +333,7 @@ P2019-00410,02/07/19 09:48,02/06/19 10:38,02/07/19 09:41,Telecommunications Hara
 CSA2019-00468,02/07/19 00:00,02/06/19 00:00,02/07/19 00:00,Theft _ without consent,OSU Medical Center - Harding Hospital,CSA Victim Declined to Make Report
 P2019-00403,02/06/19 19:14,02/06/19 19:14,,Disorderly Conduct (CCC) Unreasonable; Criminal Damaging/Endangering _ knowingly any means,Doan Hall,Closed
 P2019-00402,02/06/19 16:28,02/06/19 16:28,,Drug Paraphernalia; Possession of Drugs; Warrant Arrest; Operating a motor vehicle without a valid license; Driving under financial responsibility law suspension or cancellation; driving under a nonpayment of judgment suspension; Traffic Control Device,Cannon Dr.,Open - Arrest
-P2019-00401,02/06/19 16:22,09/08/18 12:00,02/06/19 16:22,Disorderly Conduct _ interfering w/ others,Tennis Courts Near RPAC,Closed
+P2019-00401,02/06/19 16:22,09/08/18 12:00,02/06/19 16:22,Disorderly Conduct _ interfering w/ others,RPAC,Closed
 P2019-00400,02/06/19 15:55,01/04/19 00:00,01/20/19 00:00,CSA Report: Rape,Worthington Building,Closed
 P2019-00398,02/06/19 15:01,02/04/19 08:15,02/04/19 17:00,Theft _ without consent,Worthington Building,Closed
 P2019-00395,02/06/19 10:17,03/09/17 08:00,03/23/17 11:59,CSA Report: Rape Non-Campus Location -,Unknown,Closed
@@ -350,7 +350,7 @@ P2019-00384,02/05/19 22:18,02/05/19 21:45,02/05/19 21:50,Assault _ knowingly har
 P2019-00377,02/05/19 10:19,02/05/19 10:19,02/05/19 10:19,Possession of Drugs _ marijuana,OSU Hospitals East,Closed
 CSA2019-00467,02/05/19 00:00,02/02/19 00:00,02/05/19 00:00,Theft _ without consent,OSU Medical Center - James Cancer Hospital,CSA Victim Declined to Make Report
 P2019-00370,02/04/19 22:58,02/04/19 22:58,02/04/19 22:58,Criminal Trespass _ fail to leave; recklessly,OSU East Hospital,Closed
-P2019-00369,02/04/19 21:35,02/04/19 21:35,,Marijuana Drug Paraphernalia,Smith-Steeb,Closed
+P2019-00369,02/04/19 21:35,02/04/19 21:35,,Marijuana Drug Paraphernalia,Smith-Steeb Hall,Closed
 P2019-00368,02/04/19 18:02,02/03/19 22:00,02/04/19 10:00,Theft _ without consent,OSU East Tower,Closed
 P2019-00366,02/04/19 17:27,02/04/19 16:29,02/04/19 16:45,"Burglary _ trespass in occupied structure, separately secured structure, or separately occupied portion of an occupied structure when another person is present, with purpose to commit any criminal offense.",Busch House,Open - Pending Investigation
 P2019-00364,02/04/19 14:20,01/23/19 07:09,01/23/19 08:18,Sexual Imposition _ offensive contact,OSU Medical Center ED,Open - Pending Investigation
@@ -363,12 +363,12 @@ P2019-00356,02/03/19 02:22,02/03/19 02:22,,Driving Under OVI Suspension; Drug Pa
 P2019-00353,02/03/19 01:46,02/03/19 01:46,,Disorderly Conduct _ intoxicated annoy or alarm,OSU East Hospital,Closed
 P2019-00352,02/03/19 00:48,02/03/19 00:48,,Offenses Involving Underage Persons _ underage consume beer intoxicating liquor,Smith-Steeb Hall,Closed
 P2019-00351,02/03/19 00:13,02/03/19 00:13,,Open Liquor Container _ public place,Drinko Hall,Closed
-P2019-00350,02/02/19 20:49,02/02/19 20:49,,Rape _ substantially impair judgment,"OSU East, Taylor Tower 6th Floor",Open - Pending Investigation
+P2019-00350,02/02/19 20:49,02/02/19 20:49,,Rape _ substantially impair judgment,Taylor Tower,Open - Pending Investigation
 P2019-00349,02/02/19 19:56,02/02/19 17:30,,Possession of Drugs _ marijuana,OSU Hospital East,Closed
 P2019-00348,02/02/19 17:36,02/02/19 17:36,,Assault _ knowingly harm victim,Doan Hall,Closed
-P2019-00347,02/02/19 12:39,02/01/19 19:00,02/02/19 12:00,Possession of Drugs _ L.S.D.,HOUSTON HOUSE,Open - Pending Investigation
+P2019-00347,02/02/19 12:39,02/01/19 19:00,02/02/19 12:00,Possession of Drugs _ L.S.D.,Houston House,Open - Pending Investigation
 P2019-00346,02/02/19 10:57,02/02/19 10:57,02/02/19 13:18,Expired Plates On Vehicle; Driving under suspension or in violation of license restriction; Marijuana Drug Paraphernalia; Possession of Drugs; Warrant Arrest,Neil Avenue at W 10th Avenue,Closed
-P2019-00345,02/02/19 09:16,02/01/19 13:30,02/01/19 14:45,Theft _ without consent,MATHEMATICS BUILDING,Closed
+P2019-00345,02/02/19 09:16,02/01/19 13:30,02/01/19 14:45,Theft _ without consent,Mathematics Building,Closed
 P2019-00344,02/02/19 02:35,02/02/19 02:35,,Offenses Involving Underage Persons _ underage consume beer intoxicating liquor,Residences on Tenth,Closed
 P2019-00343,02/02/19 01:12,02/02/19 01:12,,Offenses Involving Underage Persons _ underage consume beer intoxicating liquor; Prohibitions; Public urination/defecation (CCC),Woodruff west of High St.,Closed
 P2019-00342,02/01/19 23:56,01/15/19 15:00,02/01/19 23:56,Telecommunications Fraud,Scott House,Open - Pending Investigation
@@ -381,13 +381,13 @@ P2019-00333,02/01/19 03:07,02/01/19 03:07,,Possession of Drugs _ schedule I or I
 P2019-00330,02/01/19 00:28,01/31/19 23:50,01/31/19 23:55,Criminal Damaging/Endangering _ knowingly any means,Rhodes Hall,Closed
 P2019-00328,01/31/19 20:48,01/31/19 17:45,01/31/19 20:00,Criminal Damaging/Endangering _ knowingly any means; Theft _ without consent,Parking Lot M (11th Ave),Closed
 P2019-00326,01/31/19 17:51,01/31/19 17:43,,Illegal Use or Possession of Drug Paraphernalia,Harding Hospital,Closed
-P2019-00320,01/31/19 10:42,01/31/19 10:42,,"Telecommunications Harassment _ anonymous, harassing, etc.",converse hall,Closed
+P2019-00320,01/31/19 10:42,01/31/19 10:42,,"Telecommunications Harassment _ anonymous, harassing, etc.",Converse Hall,Closed
 P2019-00321,01/31/19 10:38,01/31/19 10:20,01/31/19 10:25,Possession of Drugs _ schedule I or II substance,James Cancer Hospital,Closed
 P2019-00316,01/31/19 00:11,01/31/19 00:11,,Marijuana Drug Paraphernalia _ use or possess,Baker Hall West,Closed
 CSA2019-00373,01/31/19 00:00,01/31/19 00:00,01/31/19 00:00,Theft _ without consent,OSU Medical Center - Harding Hospital,CSA Victim Declined to Make Report
 CSA2019-00374,01/31/19 00:00,01/28/19 00:00,01/31/19 00:00,Theft _ without consent,OSU Medical Center - James Cancer Hospital,Closed
 P2019-00315,01/30/19 23:42,01/30/19 23:42,,Marijuana Drug Paraphernalia _ use or possess; Possession of Drugs _ marijuana,Scott House,Closed
-P2019-00310,01/30/19 10:56,12/30/18 12:00,01/06/19 12:00,Theft _ without consent,MACK HALL,Closed
+P2019-00310,01/30/19 10:56,12/30/18 12:00,01/06/19 12:00,Theft _ without consent,Mack Hall,Closed
 CSA2019-00314,01/30/19 00:00,01/16/19 00:00,01/30/19 00:00,Theft _ without consent,OSU Medical Center - Doan Hall,CSA Victim Declined to Make Report
 CSA2019-00372,01/30/19 00:00,01/29/19 00:00,01/29/19 00:00,Theft _ without consent,OSU Medical Center - Harding Hospital,CSA Victim Declined to Make Report
 P2019-00307,01/29/19 20:03,01/28/19 14:15,01/28/19 14:45,Theft,Caldwell Labs,Closed
