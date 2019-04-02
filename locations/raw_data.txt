@@ -1,0 +1,317 @@
+(001) Bricker Hall (BK) 
+(003) Agricultural Administration (AA) 
+(004) Eighteenth Ave, 209 W (EA) 
+(005) Eighteenth Avenue Library (SE) 
+(007) Mathematics Tower (MW) 
+(008) Waterman - Dairy Loose Housing Barn 
+(009) ElectroScience Laboratory (ES) 
+(010) Biological Sciences Greenhouses 
+(011) Arps Hall (AP) 
+(012) Ornamental Plant Germplasm Center 
+(014) Jennings Hall (JE) 
+(017) Knowlton Hall (KN) 
+(018) Campbell Hall (CM) 
+(021) Airport Administration 
+(022) Longaberger Alumni House 
+(023) Waterman - Dairy Research Barn 
+(024) Postle Hall (PH) 
+(025) Derby Hall (DB) 
+(026) Caldwell Laboratory (CL) 
+(028) Faculty Club 
+(029) Women's Field House 
+(030) Denney Hall (DE) 
+(031) Airport Operations (AO) 
+(037) Hagerty Hall (HH) 
+(038) Hamilton Hall (HM) 
+(039) Hayes Hall (HA) 
+(040) Fechko Alumnae Scholarship House 
+(041) Lazenby Hall (LZ) 
+(042) Hughes Hall (HU) 
+(046) Journalism Building (JR) 
+(047) Mershon Center (MM) 
+(048) Pennsylvania Place 
+(049) Drinko Hall (DI) 
+(050) Thompson Library (LI) 
+(052) Younkin Success Center (YN) 
+(053) McPherson Chemical Laboratory (MP) 
+(054) Mendenhall Laboratory (ML) 
+(055) Mershon Auditorium (MM) 
+(056) Converse Hall (CV) 
+(057) Edison Joining Technology Center (ED) 
+(059) Fry Hall (FR) 
+(060) Orton Hall (OR) 
+(061) Page Hall (PA) 
+(063) Cockins Hall (CH) 
+(064) Parker Food Science and Technology (FS) 
+(065) Smith Laboratory (SM) 
+(066) Plumb Hall (PL) 
+(067) Pomerene Hall (PO) 
+(069) McCracken Power Plant 
+(070) Physics Research Building (PY) 
+(072) Enarson Classroom Building (EC) 
+(073) Research Center 
+(076) St John Arena 
+(077) Central Service Building 
+(078) Maintenance Building 
+(080) Sisson Hall (SI) 
+(081) Schottenstein Center (JS) 
+(082) Ohio Stadium (ST) 
+(083) Parking Garage - Northwest 
+(084) Stillman Hall (SH) 
+(085) Hale Hall (FW) 
+(086) French Field House 
+(087) Townshend Hall (TO) 
+(088) Parking Garage - Tuttle Park Pl 
+(089) Doan Hall (DN) 
+(090) Ramseyer Hall (RA) 
+(091) Nicklaus Museum 
+(092) Jesse Owens Memorial Stadium 
+(094) North Star Rd, 2470 
+(095) Baker Hall 
+(097) Bradley Hall 
+(098) Canfield Hall 
+(099) Siebert Hall 
+(100) Mack Hall 
+(102) Oxley Hall (OX) 
+(103) Paterson Hall 
+(105) Kennedy Commons 
+(106) Sullivant Hall (SU) 
+(107) Watts Hall (WA) 
+(108) Buckeye Field 
+(112) Biomedical Research Tower (BT) 
+(113) Davis Heart and Lung Research Institute (HR) 
+(128) Kinnear Rd, 1260 
+(131) Aronoff Laboratory (AL) 
+(132) Herrick Dr, 393 
+(136) Veterinary Medicine Academic (VM) 
+(140) Cryogenic Laboratory 
+(144) Psychology Building (PS) 
+(145) Nineteenth Ave, 140 W (KL) 
+(146) Bolz Hall (BO) 
+(147) Newman and Wolfrom Laboratory of Chemistry 
+(148) Scott Laboratory (SO) 
+(149) Hopkins Hall (HC) 
+(150) Evans Laboratory (EL) 
+(151) Fontana Laboratories (FL) 
+(155) Radiation Dosimetry Calibration Facility 
+(156) Animal Science Building (AS) 
+(157) Wiseman Hall (WM) 
+(159) Parking Garage - Lane Ave 
+(160) Student Academic Services (SA) 
+(161) Ohio Union (OU) 
+(162) Parking Garage - Ohio Union South 
+(163) Tzagournis Medical Research Facility 
+(165) Harding Hospital 
+(170) Parking Garage - SafeAuto Hospitals 
+(171) Dodd Hall (DO) 
+(172) Parking Garage - Cannon Dr N and S 
+(174) Animal House Kinnear Research Center 
+(176) Starling Loving Hall (SL) 
+(177) Eleventh Ave, 235-243 W 
+(179) Waterman - Laboratory Headquarters 
+(180) Goss Laboratory (GL) 
+(182) Haverfield House 
+(184) Barrett House 
+(185) Halloran House 
+(186) Norton House 
+(187) Mathematics Building (MA) 
+(189) Drackett Tower 
+(190) Morrison Tower 
+(191) 4-H Center (FO) 
+(193) Eleventh Ave, 33 W 
+(194) Houck House 
+(199) Aerospace Research Center (AA) 
+(200) Research Foundation 
+(210) Wetland Bike Shelter 
+(211) Adventure Recreation Center (AR) 
+(213) Center for Integrative Medicine 
+(214) Kenny Rd, 2006-2030 
+(215) Sandefur Wetland Pavilion 
+(221) Waterman - Heifer Barn 
+(222) Heffner Wetland Research and Education (HW) 
+(227) Kinnear Rd, 930 (CA) 
+(228) Bill Davis Baseball Stadium 
+(229) Ice Rink (IR) 
+(231) Zoology Research Laboratory 
+(232) Kenny Rd, 1900 
+(235) Flight Laboratory 
+(241) Ackerman Rd, 650 
+(242) Ackerman Rd, 660 
+(245) Physical Activity and Education Services - PAES (PE) 
+(246) Recreation and Physical Activity Center (RP) 
+(247) McCorkle Aquatic Pavilion (MK) 
+(248) CBEC (CB) 
+(249) Fisher Hall (FI) 
+(250) Gerlach Hall (GE) 
+(251) Schoenbaum Hall (SB) 
+(252) Mason Hall (MH) 
+(253) Pfahl Hall (PF) 
+(254) Blackwell Inn 
+(255) Coffey Rd Sports Center 
+(260) Mendoza House 
+(261) Archer House 
+(264) Satellite Communications Facility 
+(265) MacQuigg Laboratory (MQ) 
+(266) Riffe Building (RF) 
+(267) Jones Tower 
+(268) Taylor Tower 
+(270) Woody Hayes Athletic Center (WD) 
+(271) Lincoln Tower (LT) 
+(272) Morrill Tower (MT) 
+(273) Parks Hall (PK) 
+(274) Hitchcock Hall (HI) 
+(275) Newton Hall (NH) 
+(276) Biological Science Building (BI) 
+(277) Graves Hall (GR) 
+(278) Parking Garage - Arps 
+(279) Dreese Laboratories (DL) 
+(280) Baker Systems Engineering (BE) 
+(281) Meiling Hall (ME) 
+(282) Galbreath Equine Center 
+(283) Parking Garage - Biological Science Building 
+(284) Fawcett Center for Tomorrow (CT) 
+(287) Parking Garage - Neil Ave 
+(288) Parking Garage - Ohio Union North 
+(290) Printing Facility 
+(293) Cunz Hall (CZ) 
+(294) Wilce Student Health Center 
+(295) Howlett Hall (HT) 
+(296) Drake Performance and Event Center (DR) 
+(297) Howlett Greenhouses (HG) 
+(298) Agricultural Engineering Building (AE) 
+(299) Veterinary Medical Center 
+(302) Prior Hall (PI) 
+(303) McCampbell Hall (MC) 
+(306) Atwell Hall (AH) 
+(307) Bevis Hall (BH) 
+(308) Rightmire Hall (RH) 
+(309) Pressey Hall (PR) 
+(310) Scott Hall (SC) 
+(311) Mount Hall (MO) 
+(315) Bloch Cancer Survivors Plaza 
+(316) Waterman - Dairy Calf Barn 
+(317) Waterman - Main Dairy Barn 
+(337) Dulles Hall (DU) 
+(338) Independence Hall (IH) 
+(339) University Hall (UH) 
+(340) Kottman Hall (KH) 
+(345) Biocontainment Laboratory 
+(347) Jesse Owens Recreation Center North 
+(348) Jesse Owens Recreation Center South 
+(349) Jesse Owens Tennis Center West 
+(350) Library Book Depository 
+(352) Parking Garage - Eleventh Ave 
+(353) Ross Heart Hospital 
+(354) Rhodes Hall (RD) 
+(355) Weigel Hall (WG) 
+(356) Twelfth Ave, 395 W 
+(357) Northwood-High Building 
+(358) Sherman Studio Art Center (SA) 
+(359) Parking Garage - Ninth Ave W 
+(360) Blankenship Hall 
+(363) Comprehensive Cancer Center 
+(365) Kinnear Rd Center B 
+(366) Kinnear Rd Center C 
+(367) Kinnear Rd Center D 
+(368) Kinnear Rd Center E 
+(371) Celeste Laboratory of Chemistry (CE) 
+(372) Brain and Spine Hospital 
+(373) Kinnear Rd, 1100 (KI) 
+(374) Kinnear Rd, 1224 (KR) 
+(375) James Cancer Hospital 
+(378) Kinnear Rd, 1212-1218 
+(379) Telecommunications Network Center 
+(380) Community Extension Center (CX) 
+(381) Stores and Receiving 
+(382) Davis Medical Research Center (DV) 
+(384) Waterman - Rothenbuhler Honey Bee Lab 
+(385) Child Care Center 
+(386) Wexner Center for the Arts (WX) 
+(387) Parking Garage - Twelfth Ave 
+(395) Kinnear Rd, 1275-1305 
+(800) Buckeye Village Community Center 
+(801) Buckeye Village A - Cuyahoga Ct, 600-626 
+(833) Buckeye Village Administration 
+(834) Buckeye Village Recreation Hall 
+(846) William Hall Complex - Neil Building 
+(847) William Hall Complex - Scholars House West 
+(848) William Hall Complex - Scholars House East 
+(849) William Hall Complex - Worthington Building 
+(850) Residences on Tenth 
+(851) Park-Stradley Hall (PA) 
+(852) Smith-Steeb Hall 
+(855) Phi Kappa Tau Fraternity 
+(860) Gateway A 
+(862) Gateway B 
+(863) Gateway C 
+(864) Hanley Alumnae Scholarship House 
+(865) Gateway D (GW) 
+(866) Parking Garage - Gateway E 
+(867) Gateway F - North 
+(868) Gateway F - South 
+(869) Pomerene Alumnae Scholarship House 
+(872) Bruegger's Bagels 
+(874) Spielman Comprehensive Breast Center 
+(875) Parking Garage - Ninth Ave E 
+(878) Institute for Behavioral Medicine Research 
+(880) Morehouse Medical Plaza - Pavilion 
+(881) Morehouse Medical Plaza - Tower 
+(882) Morehouse Medical Plaza - Concourse 
+(891) Lawrence Tower (LA) 
+(892) Parking Garage - W Lane Ave 
+(898) Lane Ave, 1480 W 
+(902) Eleventh Ave, 53 W 
+(909) Adriatico's 
+(912) Neil Ave, 1656-1660 
+(915) Lane Ave, 121 W 
+(917) Lane Ave, 127 W 
+(921) Ackerman Rd, 700 
+(927) Highland St, 1615 
+(931) Kinnear Rd, 960 
+(932) Kinnear Rd, 1165 (LT) 
+(933) Schoenbaum Family Center (SF) 
+(934) Center of Science and Industry - COSI 
+(937) Waterman - Agronomy Pole Barn 
+(943) Metro High School 
+(944) Steelwood Athletic Training Facility 
+(949) State of Ohio Computer Center 
+(951) Kinnear Rd, 1315 (MB) 
+(952) Waterman - Agronomy Field Greenhouse 
+(955) Airport Dr, 2740 
+(959) Kuhn Honors and Scholars House (HN) 
+(961) Knight House 
+(963) Kinnear Rd, 760 
+(964) Eleventh Ave, 45 W 
+(965) German House 
+(966) Transplant Services at Kinnear Rd, 770 
+(967) OSU Center for Human Resource Research 
+(969) Riverwatch Tower 
+(974) Science Village 
+(977) ElectroScience Laboratory Complex 
+(983) Turfgrass Foundation (TF) 
+(984) Transmitter - WOSU (VS) 
+(985) Dodridge St, 250 W 
+(987) Campus Shop 
+(991) Urban Arts Space 
+(992) Waterman - Agronomy Turf Research 
+(995) Evans Hall 
+(1004) Jameson Crane Sports Medicine Institute 
+(1011) Schumaker Complex 
+(1012) Davis Tower 
+(1101) Torres House 
+(1102) Houston House 
+(1103) Raney House 
+(1104) Bowen House 
+(1105) Busch House 
+(1106) Curl Hall 
+(1107) Blackburn House 
+(1108) Scott House 
+(1109) North Recreation Center 
+(1110) Nosker House 
+(1260) Kinnear Rd, 1245-1255 
+(2442) Ackerman Rd, 690 - Shelter House 
+(2501) OSU Internal Medicine and Pediatrics 
+(2563) Doric on Lane 
+(2564) Norwich Flats 
+(2565) Fisher Commons 
+(2574) Kappa Kappa Gamma House 
